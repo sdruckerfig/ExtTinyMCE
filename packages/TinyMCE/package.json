@@ -1,0 +1,27 @@
+{
+    "name": "TinyMCE",
+    "type": "code",
+    "creator": "Steve Drucker (@sdruckerfig)",
+    "summary": "A plugin for the TinyMCE Editor by Oleg Schildt",
+    "detailedDescription": "This Sencha Architect extension enables you to easily deploy the TinyMCE editor.",
+    "version": "1.0.0",
+    "compatVersion": "1.0.0",
+    "architect": {
+        "defsonly": true,
+        "compatFrameworks": [
+            "ext42"
+        ],
+        "requires": [
+          
+        ],
+        "classes": [{
+            "definition": "TinyMceTextAreaDef.js",
+            "className": "Ext.ux.form.TinyMceTextArea",
+            "js": ["TinyMceTextArea.js"],
+            "css": []
+        }]
+    },
+    "format": "1",
+    "local": true,
+    "requires": []
+}

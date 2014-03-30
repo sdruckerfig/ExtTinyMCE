@@ -1,0 +1,8 @@
+{
+   "name": "MyApp",
+   "requires": [
+      "TinyMCE"
+   ],
+   "id": "8beb7758-06d6-48cb-8776-bd4728577f94",
+   "resources": []
+}

@@ -1,0 +1,51 @@
+{
+    "name": "mcetest5",
+    "settings": {
+        "cmd": {
+            "license": "commercial",
+            "cmdVersion": "4.0.3.74",
+            "frameworkVersion": "4.2.1.883"
+        },
+        "canvasControls": {
+            "viewportSize": {
+                "name": "Auto Expand",
+                "builtIn": true,
+                "height": null,
+                "width": null
+            }
+        },
+        "urlPrefix": "",
+        "exportPath": "",
+        "spacesToIndent": 4,
+        "sdkPath": "",
+        "lineEnding": "LF",
+        "genTimestamps": false,
+        "cacheBust": false,
+        "buildShouldOverwriteIndex": true,
+        "generateArchitectVersion": true,
+        "lastBuildSelection": {
+            "value": "webBuild",
+            "display": "Build web app"
+        }
+    },
+    "xdsVersion": "3.0.3",
+    "xdsBuild": 1382,
+    "schemaVersion": 1,
+    "upgradeVersion": 300000000004,
+    "framework": "ext42",
+    "viewOrderMap": {
+        "view": [
+            "93a93667-05d7-4faa-8a2e-051d3af898bf"
+        ],
+        "store": [],
+        "controller": [],
+        "model": [],
+        "resource": [
+            "de0361be-4e6c-4c7c-a978-f9ac4702381f",
+            "7b4b09b9-f134-4c75-8337-3692053187b2"
+        ],
+        "app": [
+            "application"
+        ]
+    }
+}
